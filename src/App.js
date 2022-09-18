@@ -13,7 +13,7 @@ function App() {
       <div className="container">
         <div className="row middle">
           <div className="header col-12">
-            <h1>Don't Miss This Event!</h1>
+            <h1>Don't Miss This Race!</h1>
           </div>
           <div className="col-12 button">
             <Button>Sign Up</Button>
@@ -34,13 +34,10 @@ function App() {
         </div>
       </div>
       <div className="bottom position-absolute top-100 start-50 translate-middle">
-      <Slider />
+        <Slider />
       </div>
-  
-    
     </>
-)
+  );
 }
-
 
 export default App;
