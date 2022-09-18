@@ -1,7 +1,5 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "keen-slider/keen-slider.min.css";
-import Slider from "./components/Slider";
 import Button from "react-bootstrap/Button";
 import NavBar from "./components/NavBar";
 import Card from "./components/Card";
