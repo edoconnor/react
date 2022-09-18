@@ -33,9 +33,6 @@ function App() {
           </div>
         </div>
       </div>
-      <div className="bottom position-absolute top-100 start-50 translate-middle">
-        <Slider />
-      </div>
     </>
   );
 }
