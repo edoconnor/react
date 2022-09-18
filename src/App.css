@@ -1,0 +1,33 @@
+.middle {
+  position: absolute;
+  top: 10%;
+  left: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.button,
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+.card-row {
+  display: flex;
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+  
+}
+.card {
+  margin-right: 2rem;
+}
+.bottom {
+  margin-top: -8rem;
+}
